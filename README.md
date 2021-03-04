@@ -8,6 +8,8 @@ An Urban Regeneration Project for Lanciano (Utilizing GIS and Data Analysis Tool
 
 March 2021
 
+
+
 "
 HERE Maps realtime traffic
 
@@ -29,5 +31,3 @@ methodology:
 frame in Lanciano is set
 4 - the script is scheduled using Task Scheduler with
 another two alternatives for scheduling in Python
-5 - comments are elaborated to make the script clearer
-"
