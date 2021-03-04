@@ -8,8 +8,6 @@ An Urban Regeneration Project for Lanciano (Utilizing GIS and Data Analysis Tool
 
 March 2021
 
-
-
 "
 HERE Maps realtime traffic
 
