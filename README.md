@@ -3,7 +3,9 @@ at Architecture (Conservation) department of Sapienza University
 of Rome which was co-supervised by Politecnico di Milano.
 
 thesis:
+
 An Urban Regeneration Project for Lanciano (Utilizing GIS and Data Analysis Tools): The Disused Sangritana Railway Line Between Mobility and Historic Networks
+
 March 2021
 
 "
